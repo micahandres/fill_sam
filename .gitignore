@@ -1,3 +1,11 @@
+# GroundingDINO
+GroundingDINO/
+
+# fill_sam IGNORED
+fill_sam/
+# venv ignored
+pytorch_fill_sam.venv/
+
 # documents
 *.png
 
